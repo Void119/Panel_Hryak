@@ -1,7 +1,7 @@
 {
     "token": "",
-    "guild_id": "",
-    "channel_id": "",
+    "guild_id": "YOUR_GUILD_ID",
+    "channel_id": "YOUR_CHANNEL_ID",
     "feed": true,
     "meat": true,
     "time_feed": 5,
