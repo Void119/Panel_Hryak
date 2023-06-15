@@ -1,0 +1,9 @@
+{
+    "token": "",
+    "guild_id": "",
+    "channel_id": "",
+    "feed": true,
+    "meat": true,
+    "time_feed": 5,
+    "time_meat": 5
+}
