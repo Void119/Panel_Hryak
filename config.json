@@ -1,5 +1,5 @@
 {
-    "token": "",
+    "token": "YOUR_DISCORD_TOKEN",
     "guild_id": "YOUR_GUILD_ID",
     "channel_id": "YOUR_CHANNEL_ID",
     "feed": true,
